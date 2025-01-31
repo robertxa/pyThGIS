@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Robert"
+  given-names: "Xavier"
+  orcid: "https://orcid.org/0000-0002-0567-7497"
+title: "pyThGIS, a Python code to clean the shp Therion output"
+version: 2025
+doi: 10.5281/zenodo.1002XXXX
+date-released: 2025-02-10
+url: "https://github.com/robertxa/pyThGIS"

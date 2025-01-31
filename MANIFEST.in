@@ -1,0 +1,6 @@
+include README.rst
+include LICENCE.txt
+recursive-include pyThGIS test/SHP/*.dbf
+recursive-include pyThGIS test/SHP/*.prj
+recursive-include pyThGIS test/SHP/*.shp
+recursive-include pyThGIS test/SHP/*.shx
