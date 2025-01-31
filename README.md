@@ -41,7 +41,7 @@ Run the three scripts in once.
 
 ## Licence
 
-This script is under the GNU GPL-3.9-or-later licence.
+This script is under the GNU GPL-3.0-or-later licence.
 
 ## Author
 
