@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-0567-7497"
 title: "pyThGIS, a Python code to clean the shp Therion output"
 version: 2025
-doi: 10.5281/zenodo.1002XXXX
-date-released: 2025-02-10
+doi: 10.5281/zenodo.15078040
+date-released: 2025-03-24
 url: "https://github.com/robertxa/pyThGIS"

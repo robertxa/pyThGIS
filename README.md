@@ -51,4 +51,7 @@ Xavier Robert (xavier.robert@ird.fr)
 
 If used, please cite :
 
-Robert X. (2025), pyThGIS, a Python code to clean the shp Therion output. DOI:10.5281/zenodo.1002XXXX
+Robert X. (2025), pyThGIS, a Python code to clean the shp Therion output. DOI:10.5281/zenodo.15078040
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15078040.svg)](https://doi.org/10.5281/zenodo.15078040)
+
